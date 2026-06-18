@@ -36,7 +36,7 @@ This architecture allows for 24/7 uptime, incredibly low resource consumption, a
 ## 📥 Download & Setup
 MBF is completely **free to use**. 
 
-You can download the latest ready-to-run version directly from the [https://github.com/weldtrailclaim/mbf-flipper-skyblock/releases/tag/Setup](**Releases**) section. No license keys, hardware binding, or subscriptions are required.
+You can download the latest ready-to-run version directly from the [**Releases**](https://github.com/weldtrailclaim/mbf-flipper-skyblock/releases/tag/Setup) section. No license keys, hardware binding, or subscriptions are required.
 
 ---
 
