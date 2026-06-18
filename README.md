@@ -3,9 +3,13 @@
 # 📈 MBF (Mineflayer Bazaar Flipper)
 **Advanced, Headless Hypixel Skyblock Automation**
 
-</div>
+
 
 ---
+
+<img width="256" height="256" alt="681805" src="https://github.com/user-attachments/assets/ea768c5f-3aed-47c2-b73c-c6e2098724f7" />
+
+</div>
 
 ## 🚀 Overview
 MBF is a high-performance Hypixel Skyblock QOL bot focused entirely on **Bazaar flipping automation**. Unlike traditional Auction House macros or Forge/Fabric mods, MBF is built on **Mineflayer**, operating as a lightweight, headless client. 
